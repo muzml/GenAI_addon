@@ -1,4 +1,4 @@
-# 🤖 GenAI Addon
+# GenAI Addon
 
 > A Retrieval-Augmented Generation (RAG) chatbot built with **Gradio**, **LangChain**, **Groq LLM**, **FAISS**, and **Hugging Face Embeddings**.
 
